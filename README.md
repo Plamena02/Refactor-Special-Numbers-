@@ -1,2 +1,2 @@
-# Refactor-Special-Numbers-
+# Refactor-Special-Numbers
 IT Career 
